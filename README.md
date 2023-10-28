@@ -1,7 +1,7 @@
 # engineering-calculator
 可以跨平台 (Web, Windows, macOS, Android, iOS) 使用的多功能小算盤。
 
-## 預計支援的功能
+### 預計支援的功能
 * 計算機
   * 科學計算機
   * 進制計算機 (HEX, DEC, OCT, BIN)
@@ -21,3 +21,7 @@
   * 壓力
   * 角度
   * 頻率
+
+### 參考資料
+
+- [calculator](https://github.com/microsoft/calculator)
